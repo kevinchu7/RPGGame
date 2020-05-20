@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["小老弟学会了【卢本伟牛逼】！"]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":101,"indent":0,"parameters":["007",5,0,2]},{"code":401,"indent":0,"parameters":["我再说一遍：我，卢本伟，没有开挂！！！"]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

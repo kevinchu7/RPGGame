@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"主世界","order":1,"parentId":0,"scrollX":728,"scrollY":401.77777777777777},
+{"id":2,"expanded":false,"name":"家","order":2,"parentId":1,"scrollX":728,"scrollY":401.77777777777777},
+{"id":3,"expanded":false,"name":"物品商店","order":3,"parentId":1,"scrollX":728,"scrollY":401.77777777777777},
+{"id":4,"expanded":false,"name":"城堡","order":4,"parentId":1,"scrollX":728,"scrollY":401.77777777777777},
+{"id":5,"expanded":false,"name":"贤者的家","order":5,"parentId":1,"scrollX":720.8888888888889,"scrollY":413.3333333333333}
+]

@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"并没用什么卵用。","effects":[],"hitType":0,"iconIndex":146,"itypeId":1,"name":"大金链子","note":"","occasion":0,"price":300,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"并没用什么卵用。","effects":[],"hitType":0,"iconIndex":145,"itypeId":1,"name":"手表","note":"","occasion":0,"price":200,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":3,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"并没用什么卵用。","effects":[],"hitType":0,"iconIndex":188,"itypeId":1,"name":"打火机","note":"","occasion":0,"price":200,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":4,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":207,"itypeId":1,"name":"辣条","note":"","occasion":0,"price":5000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":5,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"使用之后习得绝技！","effects":[{"code":43,"dataId":9,"value1":1,"value2":0},{"code":44,"dataId":2,"value1":1,"value2":0}],"hitType":0,"iconIndex":231,"itypeId":1,"name":"绝技9527","note":"","occasion":0,"price":999999,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0}
+]
